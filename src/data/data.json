@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "Future Care Foundation",
+    "paragraph": "It is a registered NGO under Societies Registration Act 21, 1860, Government of India. It is also registered with 12A and 80G. It is working in the field of Education and Women Empowerment."
+  },
+  "About": {
+    "paragraph": "Do you find pleasure in working for the people and giving it back to the society? Here’s your chance to work with our NGO. We are accepting internship applications now for the position of Fundraiser Intern.",
+    "Why": [
+      " Certificate of Internship",
+      " Letter of Recommendation to achievers and sincere interns",
+      " Chance to get featured on our website + shoutout on social media handles",
+      " Stipend - 20% of the total funds raised",
+      "One Certificate "
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/1.jpeg",
+      "smallImage": "img/portfolio/1.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/2.jpeg",
+      "smallImage": "img/portfolio/2.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3.jpeg",
+      "smallImage": "img/portfolio/3.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4.jpeg",
+      "smallImage": "img/portfolio/4.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5.jpeg",
+      "smallImage": "img/portfolio/5.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/6.jpeg",
+      "smallImage": "img/portfolio/6.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/7.jpeg",
+      "smallImage": "img/portfolio/7.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/8.jpeg",
+      "smallImage": "img/portfolio/8.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Women Empowerment",
+      "text": "In Bihar employment scenario is grim which result in migration of males to bigger cities in search of employment, leaving behind women, children and aged person to live an isolated and meaningless life. To reduce this, RSF is making sincere efforts to organize poor women in self-help groups and link them with some income generation activities for their empowerment. RSF adopts three pronged strategy once the group is formed.."
+    },
+    {
+      "icon": "fa fa-child",
+      "title": "Child Education",
+      "text": "Since its inception, Our ngo has been working in the field of education. Our education scholarship program was commenced understanding the need to support children. Through this project we strive to break the barriers towards acquisition of education for the deprived & underprivileged section.."
+    },
+    {
+      "icon": "fa fa-blind",
+      "title": "Eye Care/Cataract",
+      "text": "Blindness and visual impairment among peoples have long-term effects; particularly inhibiting a human's ability to participate in and benefit from educational experiences, as 80% of learning is processed through the visual system. This reduces inequalities and betters adult health, future livelihood and social opportunities. The main visual impairment identified is uncorrected refractive error, which can often be addressed by a pair of child-friendly glasses.."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "title": "Climate Change",
+      "text": "With help and support of local people and society's own resources environment campaign were launched at Kahugual at Patna district. A total of 02 areas were covered under the campaign through a series of awareness generation camps and plantation work. Through this campaign society has been successful in reaching to common people on the issues of environment protection and pollution. Pamphlets were also distributed among the people during the campaign to provide better inputs on the matter of importance."
+    }
+  ]
+}
