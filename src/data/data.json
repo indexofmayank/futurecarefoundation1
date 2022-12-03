@@ -15,44 +15,64 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Child Care Award",
       "largeImage": "img/portfolio/1.jpeg",
       "smallImage": "img/portfolio/1.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Warm Meeting With Syed Shahnawaz Hussain",
       "largeImage": "img/portfolio/2.jpeg",
       "smallImage": "img/portfolio/2.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Award Receiving Event",
       "largeImage": "img/portfolio/3.jpeg",
       "smallImage": "img/portfolio/3.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Guest Honour",
       "largeImage": "img/portfolio/4.jpeg",
       "smallImage": "img/portfolio/4.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Warm Concalve At Zee",
       "largeImage": "img/portfolio/5.jpeg",
       "smallImage": "img/portfolio/5.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Discusstion With Inspire Leader",
       "largeImage": "img/portfolio/6.jpeg",
       "smallImage": "img/portfolio/6.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Let's Inspire Bihar",
       "largeImage": "img/portfolio/7.jpeg",
       "smallImage": "img/portfolio/7.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Meeting With Government Officals",
       "largeImage": "img/portfolio/8.jpeg",
       "smallImage": "img/portfolio/8.jpeg"
+    },
+    {
+      "title": "Our Certificates",
+      "largeImage": "img/portfolio/c1.jpg",
+      "smallImage": "img/portfolio/c1.jpg"
+    },
+    {
+      "title": "Our Certificates",
+      "largeImage": "img/portfolio/c2.jpg",
+      "smallImage": "img/portfolio/c2.jpg"
+    },
+    {
+      "title": "Our Certificates",
+      "largeImage": "img/portfolio/c3.jpg",
+      "smallImage": "img/portfolio/c3.jpg"
+    },
+    {
+      "title": "Our Certificates",
+      "largeImage": "img/portfolio/c4.jpg",
+      "smallImage": "img/portfolio/c4.jpg"
     }
   ],
   "Services": [
@@ -89,62 +109,62 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/v2.jpg",
+      "text": "\"Volunteering with Futurecare Foundation is a great way to get involved in your community. We provide opportunities for individuals to volunteer at events like the Art & Wine Festival, our annual Fiverr fundraiser and many other events throughout the year.\"",
+      "name": "Saurav Gupta"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/v3.jpg",
+      "text": "\"Futurecare Foundation is looking for volunteers to assist with class room activities, classroom clean-up & more. If you are interested please fill out the registration information at the bottom of this page and I will be in contact with you soon!\"",
+      "name": "Mayank Tiwari"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/v1.jpg",
+      "text": "\"Are you a budding social entrepreneur? FutureCare Foundation is an up-and-coming non-profit that provides community support services to help kids in need. We need your help! JOIN US FOR A DAY OF FRIENDSHIP, CHARITY AND FUN AT THE 22ND ANNUAL MARKETPLACE FOR YOUTH SO FAR FROM THE BIHAR HOUSING PRESERVATION FOUNDATION.\"",
+      "name": "Rahul Singh"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/v4.jpg",
+      "text": "\"We are a non-profit working with people who have developmental disabilities. We serve those who struggle with their daily lives, teaching them how to live independently by giving them meaningful work and socialization.\"",
+      "name": "Navneet Kumar"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/v5.jpg",
+      "text": "\"Futurecare is a charity that helps to provide elderly with the financial support they need. The Foundation also helps in providing resources and education to prevent elder abuse.\"",
+      "name": "Anshu Singh"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/v6.jpg",
+      "text": "\"I want to volunteer at futurecarefoundation.org because I believe in the cause and want to give back to my community. I am a loyal person, willing to do whatever it takes to help others in need and thrives off of challenges.\"",
+      "name": "Garima Sharma"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
       "name": "John Doe",
-      "job": "Director"
+      "job": "FutureCareFoundation Member"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Mike Doe",
-      "job": "Senior Designer"
+      "job": "FutureCareFoundation Member "
     },
     {
       "img": "img/team/03.jpg",
       "name": "Jane Doe",
-      "job": "Senior Designer"
+      "job": "FutureCareFoundation Member "
     },
     {
       "img": "img/team/04.jpg",
       "name": "Karen Doe",
-      "job": "Project Manager"
+      "job": "FutureCareFoundation Member "
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Kankarbhag, Patna, Bihar: 800020 ",
+    "phone": "+919334355575",
+    "email": "fcfindia3@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
